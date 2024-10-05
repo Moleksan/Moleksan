@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi there 👋
+I'm Oleksandr Myroniuk, an aspiring C and C++ developer currently studying at 42 School. I'm passionate about learning and growing as a developer, with a focus on both web development and system-level programming.
 
-<!--
-**Moleksan/Moleksan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:  
 
-Here are some ideas to get you started:
+🌱 I’m currently learning C, C++, Bash, HTML, CSS, JavaScript, and Git.
+💻 I have a strong interest in web development and enjoy working with front-end technologies like HTML, CSS, and JS.
+🔧 I'm also exploring system programming using C/C++ to build more complex software.
+👯 I’m open to collaborating on interesting projects, especially in web or system development.
+📚 Always looking for new challenges and opportunities to enhance my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach Me:
+
+📫 Instagram: https://www.instagram.com/mironyk_alexandr/
+💬 Telegram: t.me/Omomom108  
+💼 LinkedIn: www.linkedin.com/in/myroniuk-oleksandr-2ba292331  
+
+Fun Fact:  
+
+⚡ I’m constantly learning new things and always excited to dive into new technologies or projects!
