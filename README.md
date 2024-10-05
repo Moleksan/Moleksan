@@ -11,7 +11,7 @@ About Me:
 
 Reach Me:
 
-📫 Instagram: https://www.instagram.com/mironyk_alexandr/
+📫 Instagram: https://www.instagram.com/mironyk_alexandr/  
 💬 Telegram: t.me/Omomom108  
 💼 LinkedIn: www.linkedin.com/in/myroniuk-oleksandr-2ba292331  
 
