@@ -8,11 +8,7 @@ About Me:
 🔧 I'm also exploring system programming using C/C++ to build more complex software.  
 👯 I’m open to collaborating on interesting projects, especially in web or system development.  
 📚 Always looking for new challenges and opportunities to enhance my programming skills.  
-  
-Reach Me:  
-  
-💬 Telegram: t.me/Omomom108 
-  
+
 Fun Fact:  
   
 ⚡ I’m constantly learning new things and always excited to dive into new technologies or projects!  
